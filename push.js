@@ -1,5 +1,5 @@
 const age = [];
-const numbers =[12, 22, 33, 44, 55, 66];
+const numbers = [12, 22, 33, 44, 55, 66];
 
 console.log(numbers);
 numbers.push(690);
